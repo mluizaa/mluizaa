@@ -8,7 +8,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizaa&layout=compact&theme=vue"/>
 </a>
 
-<a href="https://github.com/mluizaa/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizaa&layout=compact&theme=vue"/>
-</a>
 
