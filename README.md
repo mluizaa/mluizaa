@@ -1,8 +1,14 @@
-Hi, I’m Maria Luíza!
-- 🌱 I’m currently learning JS, CSS and HTML on RocketSeat platform
-- 📷 I’m interested in photography, plants, games and embroidery
-- 💼 Looking for a job
+<h3 align="center"> Hi, I’m Maria Luíza! </h3>
 
-<div> 
+* 🌱 I’m currently learning JS, CSS and HTML on RocketSeat platform
+* 🎨 My hobbies are photography, games, gardening and embroidery
+* 💼 Looking for a job
 
-</div>
+<a href="https://github.com/mluizaa/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizaa&layout=compact&theme=vue"/>
+</a>
+
+<a href="https://github.com/mluizaa/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizaa&layout=compact&theme=vue"/>
+</a>
+
