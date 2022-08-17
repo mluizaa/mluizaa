@@ -9,6 +9,8 @@
 
 <p></p>
 
+##
+
 * 🌱 I’m currently learning JS, HTML and CSS on RocketSeat platform
 * 🎨 My hobbies are photography, games, gardening and embroidery
 * 💼 Looking for a job
