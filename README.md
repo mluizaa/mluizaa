@@ -1,6 +1,6 @@
-<h3 align="center"> Hi, i’m Maria Luíza 😊</h3>
+<img align="right" width="325" height="360" src="IMG_7822.png"/>
 
-<img align="right" width="350" height="500" src="IMG_7822.png"/>
+<h3 align="center"> Hi, i’m Maria Luíza 😊</h3>
 
 <div align="center">
 <a href="www.linkedin.com/in/marialuizaalvesdemedeiros" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
@@ -9,7 +9,7 @@
 
 <p></p>
 
-* 🌱 I’m currently learning JS on RocketSeat platform
+* 🌱 I’m currently learning JS, HTML and CSS on RocketSeat platform
 * 🎨 My hobbies are photography, games, gardening and embroidery
 * 💼 Looking for a job
 * 📩 maria1luiza1medeiros@outlook.com
